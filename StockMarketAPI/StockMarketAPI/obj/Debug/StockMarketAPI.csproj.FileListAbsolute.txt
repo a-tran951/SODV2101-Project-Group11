@@ -1,0 +1,9 @@
+C:\Users\phoen\OneDrive\Documents\GitHub\SODV2101-Project-Group11\StockMarketAPI\StockMarketAPI\bin\Debug\StockMarketAPI.exe.config
+C:\Users\phoen\OneDrive\Documents\GitHub\SODV2101-Project-Group11\StockMarketAPI\StockMarketAPI\bin\Debug\StockMarketAPI.exe
+C:\Users\phoen\OneDrive\Documents\GitHub\SODV2101-Project-Group11\StockMarketAPI\StockMarketAPI\bin\Debug\StockMarketAPI.pdb
+C:\Users\phoen\OneDrive\Documents\GitHub\SODV2101-Project-Group11\StockMarketAPI\StockMarketAPI\obj\Debug\StockMarketAPI.csprojAssemblyReference.cache
+C:\Users\phoen\OneDrive\Documents\GitHub\SODV2101-Project-Group11\StockMarketAPI\StockMarketAPI\obj\Debug\StockMarketAPI.Properties.Resources.resources
+C:\Users\phoen\OneDrive\Documents\GitHub\SODV2101-Project-Group11\StockMarketAPI\StockMarketAPI\obj\Debug\StockMarketAPI.csproj.GenerateResource.cache
+C:\Users\phoen\OneDrive\Documents\GitHub\SODV2101-Project-Group11\StockMarketAPI\StockMarketAPI\obj\Debug\StockMarketAPI.csproj.CoreCompileInputs.cache
+C:\Users\phoen\OneDrive\Documents\GitHub\SODV2101-Project-Group11\StockMarketAPI\StockMarketAPI\obj\Debug\StockMarketAPI.exe
+C:\Users\phoen\OneDrive\Documents\GitHub\SODV2101-Project-Group11\StockMarketAPI\StockMarketAPI\obj\Debug\StockMarketAPI.pdb
